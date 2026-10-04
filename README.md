@@ -1,2 +1,2 @@
 # portfolio
-Repo for creative coding
+Repo for creative coding.
